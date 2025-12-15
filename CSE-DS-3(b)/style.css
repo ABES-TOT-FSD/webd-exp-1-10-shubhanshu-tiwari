@@ -1,0 +1,19 @@
+div{
+    border: solid 2px black
+}
+h3{
+    background-color: gray;
+    height: 30px;
+    padding: 15px;
+    margin: 2px;
+}
+#first{
+    background-color: skyblue;
+    text-decoration: blue;
+}
+#second{
+background-color: rgb(86, 212, 158);
+}
+span{
+    color: skyblue;
+}
